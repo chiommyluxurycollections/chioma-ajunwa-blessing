@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-PORTFOLIO-URL/sitemap.xml
+Sitemap: https://chiommyluxurycollections.github.io/chioma-ajunwa-blessing/sitemap.xml
